@@ -1,6 +1,12 @@
 # words_rest_api
 A simple REST API implementing a collection of words.
 
+
+prerequisites: node
+
+https://nodejs.org/en/
+
+
 Build and run:
 
 cd WORDS_REST_API
